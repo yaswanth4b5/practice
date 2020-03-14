@@ -1,0 +1,274 @@
+*{
+    margin:initial;
+    padding: 5px;
+    box-sizing: content-box;
+    font-family: serif;
+}
+body{
+    background-image: url('https://lh3.googleusercontent.com/proxy/8qu2x9k-eKhGiTim4STWyJcS-TZj1ENHhe05wjX9dW6j5Ba8kVUQVBKU2tuojqnOjCmuhMLN_Z-wADAp0L3GkPYlnuybzwB_1tCw9AtR8s9oM8JPKTHIFaU-VAR18lATcbTQokuwKnnw7elNHv-FE2SiveyjcySP');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+nav{
+    background-color: transparent;
+    width: 100%;
+    overflow:inherit;
+    position: absolute ;
+}
+
+nav ul{
+    display:inline-block;
+    margin-right: 100px;
+    letter-spacing: 2px;
+    list-style-type: none;
+    float: right;
+    margin-top:7px;
+}
+
+nav ul li{
+    display:inline-block;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav ul li a:hover{
+    text-decoration: none;
+    border-radius: 4px;
+    background-color:goldenrod;
+    transition: 0.8s ease;
+    text-align: center;
+    color: black;
+    display: block;
+    font-weight: bold;
+}
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV8y746V1sFD61uHicxEbvdQV85szsezdQZLcDnkmyLRrrBq8I');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin:initial;
+
+}
+.wrap{
+    justify-content: space-around;
+    
+    display:flex;
+    margin: initial;
+    /* margin-top:100px; */
+}
+.set-1{
+    
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:20px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-2{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin: 10px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-3{
+    box-shadow: 9px -11px 20px 8px black;
+    transition: 0.4s;
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:10px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-4{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:20px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-5{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:10px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-6{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:10px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-7{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 40px;  */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:20px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-8{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px;
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:10px;
+    /* display:flex; */
+    /* justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.set-9{
+    box-shadow: 9px -11px 20px 8px black;
+    /* transition: 0.4s; */
+    width: 300px;
+    padding: 40px; 
+    background:wheat;
+    /* margin-top: 30px; */
+    text-align: center;
+    font-size:16px;
+    font-family:sans-serif;
+    /* float: left; */
+    margin:10px;
+    /* display:flex; 
+     justify-content: space-evenly; */
+    border-radius: 16px 18px 16px 18px;
+    /* table-layout: fixed; */
+}
+.Mine:hover{
+    font-weight:  45px;
+    background-color: crimson;
+    transition: 0.8s ease;
+
+
+}
+
+.set-1:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-2:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-3:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-4:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-5:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-6:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-7:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-8:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+.set-9:hover{
+    background-color: goldenrod;
+    transition: 0.8s ease;
+}
+
+
